@@ -16,22 +16,22 @@
 		},
 		"profiles": [{
 				"network": "Twitter",
-				"username": "handle",
+				"username": "SAMEERS39376411",
 				"url": "https://www.twitter.com/SAMEERS39376411/"
 			},
 			{
 				"network": "Github",
-				"username": "handle",
+				"username": "Sameersaifi1512",
 				"url": "https://www.github.com/Sameersaifi1512/"
 			},
 			{
 				"network": "linkedin",
-				"username": "username",
+				"username": "sameer-saifi-88297420b",
 				"url": "https://www.linkedin.com/in/sameer-saifi-88297420b/"
 			},
 			{
 				"network": "Instagram",
-				"username": "handle",
+				"username": "sam_sai_07",
 				"url": "https://instagram.com/sam_sai_07/"
 			}
 		]
